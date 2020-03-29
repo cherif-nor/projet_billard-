@@ -1,5 +1,5 @@
 # projet_billard-
-projet développement logiciel
+Development project
 
 
 ## contributers:
