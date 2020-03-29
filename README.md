@@ -3,7 +3,9 @@ projet développement logiciel
 #contributers:
  ## AMAHJOUR Walid: amahjour.walid@etu.umontpellier.fr
  ## AMAGHAR Mohamed: amaghar.mohamed@etu.umontpellier.fr
- ##CHAROY-GERARD Leo : charoy-gerard.leo@etu.umontpellier.fr 
+ ##CHAROY-GERARD Leo : charoy-gerard.leo@etu.umontpellier.fr/n
+
+
 #GOAL:
 The goal of this project is to be able to produce videos and widget representing a point/ball in a billiard with a simple shape and showing its trajectory.
 #Plan:
