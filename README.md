@@ -10,7 +10,7 @@ projet développement logiciel
 ### CHAROY-GERARD Leo: charoy-gerard.leo@etu.umontpellier.fr
 
 
-##GOAL:
+## GOAL:
 
 The goal of this project is to be able to produce videos and widget representing a point/ball in a billiard with a simple shape and showing its trajectory.
 
