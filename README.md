@@ -2,7 +2,7 @@
 projet développement logiciel
 
 
-##contributers:
+## contributers:
 ### AMAHJOUR Walid: amahjour.walid@etu.umontpellier.fr
 
 ### AMAGHAR Mohamed: amaghar.mohamed@etu.umontpellier.fr
