@@ -1,6 +1,4 @@
 # projet_billard-
-<<<<<<< HEAD
-<<<<<<< HEAD
 Development project
 
 
@@ -42,9 +40,3 @@ The goal of this project is to be able to produce videos and widget representing
 
 Finally, provide elements mimicking the following video:
  https://www.youtube.com/watch?v=A7mPzrNJHkA&list=PLTgIq68k2wHH31X-pkBDu2QVeA85G8OHV&index=2&t=0s
-=======
-Logiciel development
->>>>>>> 41abd2f8f3937fe737c5b97d12c47b5820a8ac8c
-=======
-Logiciel development
->>>>>>> 41abd2f8f3937fe737c5b97d12c47b5820a8ac8c
