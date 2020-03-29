@@ -1,9 +1,11 @@
 # projet_billard-
 projet développement logiciel
+
+
 #contributers:
- ## AMAHJOUR Walid: amahjour.walid@etu.umontpellier.fr
- ## AMAGHAR Mohamed: amaghar.mohamed@etu.umontpellier.fr
- ##CHAROY-GERARD Leo: charoy-gerard.leo@etu.umontpellier.fr
+## AMAHJOUR Walid: amahjour.walid@etu.umontpellier.fr
+## AMAGHAR Mohamed: amaghar.mohamed@etu.umontpellier.fr
+##CHAROY-GERARD Leo: charoy-gerard.leo@etu.umontpellier.fr
 
 
 #GOAL:
